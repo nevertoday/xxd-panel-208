@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 208"
+  short_description: "Blue-pink Modernist Abstract Cluster"
+  default_prompt: "Use $xxd-panel-208 to transform my photograph following the complete canonical source brief."
