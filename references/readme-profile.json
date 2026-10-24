@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 208｜Blue-pink Modernist Abstract Cluster: keeps only two to four visual memories of a photo and rebuilds them as one compact modernist abstract cluster — organic geometric shapes, flat colour blocks and silhouettes held together by a few black repeated lines, hatching, dot patterns or local textures, soft forms set against rational lines, with no realistic shading or volume. The palette is fixed and strict: warm white, off-white or bone paper, bright blue and high-key pink as the main pair, red only as a tiny spark, black for outlines and line texture, in clearly unequal amounts. The cluster stays small, off-centre or cropped, in wide negative space with a few small, light words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-208 or asks for modernist abstract, blue-and-pink limited-palette or experimental graphic posters from a photo.",
+  "short_description": "蓝粉现代主义抽象：把照片提炼成一小团抽象色块和黑色线纹，蓝粉为主，红色一点，大片留白",
+  "zh-CN": {
+    "name": "蓝粉现代主义抽象",
+    "tagline": "把照片提炼成一小团蓝粉色块和黑色线纹组成的现代主义抽象图形。",
+    "look": "照片只保留 2 到 4 个视觉记忆点，变成一小团紧凑的抽象图形：有机几何形、平面色块和剪影，加少量黑色重复线条、排线、点阵或局部纹理做骨架，让柔软的形状和理性的线条形成对比，不用写实明暗和体积。颜色是固定的限定色：暖白、米白或骨白纸底，鲜亮的蓝和高明度的粉为主，红色只占极小一点，黑色负责轮廓和纹理，各色面积主次分明。图形团偏小，可以偏心、悬置或贴边，四周大片留白，配几处细小的字词。",
+    "traits": ["抽象图形团", "蓝粉主色", "红色跳点", "黑色线性纹理", "大片留白"],
+    "good": [
+      "形状或节奏鲜明的照片：一盆花、一组建筑、海浪、一个舞动的人",
+      "能抽象成几块形状的简单场景：窗和阳台、海和船、一只鸟",
+      "想做艺术海报、展览视觉或唱片封面的照片"
+    ],
+    "poor": [
+      "需要认出具体样貌或细节的照片：人像、商品、地标细节",
+      "想保留照片原有色彩的需求，这里的颜色固定以蓝和粉为主",
+      "想要写实、渐变、3D 或可爱卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Blue-pink Modernist Abstract Cluster",
+    "tagline": "Distils a photo into a small modernist abstract cluster of blue and pink blocks with black line textures.",
+    "look": "Only two to four visual memories of your photo are kept and turned into one compact abstract cluster: organic geometric shapes, flat colour blocks and silhouettes, held together by a few black repeated lines, hatching, dot patterns or patches of texture, so soft shapes play against rational lines, with no realistic shading or volume. The colours are a fixed, limited set: warm white, off-white or bone paper, bright blue and high-key pink as the main pair, red only as a tiny spark, and black for outlines and texture, with clearly unequal amounts of each. The cluster stays small and may sit off-centre, float or touch an edge, with wide whitespace around it and a few small words.",
+    "traits": ["Abstract cluster", "Blue and pink", "Red spark", "Black line texture", "Wide whitespace"],
+    "good": [
+      "Photos with strong shapes or rhythm: a pot of flowers, a group of buildings, waves, a person dancing",
+      "Simple scenes that reduce to a few shapes: a window and balcony, sea and boat, a bird",
+      "Photos you want as an art poster, exhibition visual or record sleeve"
+    ],
+    "poor": [
+      "Photos where a specific likeness or detail must be recognised: portraits, products, landmark details",
+      "Requests to keep the photo's own colours, since the palette here is fixed on blue and pink",
+      "Requests for realism, gradients, 3D or a cute cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "青とピンクのモダニズム抽象",
+    "tagline": "写真を、青とピンクの色面と黒い線の質感でできた小さなモダニズムの抽象図形にまとめます。",
+    "look": "写真から視覚的な記憶を二から四つだけ残し、ひとまとまりの小さな抽象図形にします。有機的な幾何学形、平らな色面、シルエットを、少しの黒い反復線、ハッチング、点の模様、部分的な質感が骨組みとしてまとめ、柔らかな形と理性的な線を対比させます。写実的な陰影やボリュームは使いません。色は決まった限定色で、温かな白、生成り、骨のような白の紙地に、鮮やかな青と明るいピンクが主役、赤はごく小さな一点だけ、黒が輪郭と質感を担い、それぞれの面積にははっきりした主従があります。図形のまとまりは小さく、中心から外したり、浮かせたり、端に寄せたりでき、周りに大きな余白をとって、小さな言葉を数か所添えます。",
+    "traits": ["抽象図形のまとまり", "青とピンク", "赤の一点", "黒い線の質感", "広い余白"],
+    "good": [
+      "形やリズムがはっきりした写真：鉢植えの花、建物の群れ、波、踊る人",
+      "いくつかの形に抽象化できるシンプルな場面：窓とバルコニー、海と船、一羽の鳥",
+      "アートポスター、展覧会のビジュアル、レコードジャケットにしたい写真"
+    ],
+    "poor": [
+      "具体的な姿や細部を見分ける必要がある写真：人物、商品、ランドマークの細部",
+      "写真本来の色を残したい場合（ここでは色が青とピンク中心に固定されています）",
+      "写実、グラデーション、3D、かわいい漫画風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "파랑 분홍 모더니즘 추상",
+    "tagline": "사진을 파랑과 분홍 색면, 검은 선 질감으로 된 작은 모더니즘 추상 그래픽으로 정리합니다.",
+    "look": "사진에서 시각적 기억 두 개에서 네 개만 남겨 작고 촘촘한 추상 그래픽 하나로 만듭니다. 유기적 기하 형태, 평면 색면, 실루엣을 약간의 검은 반복선, 해칭, 점무늬, 부분 질감이 뼈대처럼 묶어 부드러운 형태와 이성적인 선이 맞서게 하며, 사실적인 명암이나 부피는 쓰지 않습니다. 색은 정해진 제한 색으로 따뜻한 흰색, 미색, 골백색 종이 바탕에 선명한 파랑과 밝은 분홍이 중심이고, 빨강은 아주 작은 한 점, 검정은 윤곽과 질감을 맡으며, 색마다 면적의 주종이 분명합니다. 그래픽 무리는 작게, 중심에서 비켜나거나 떠 있거나 가장자리에 붙을 수 있고, 둘레에 넓은 여백과 작은 글자 몇 개를 둡니다.",
+    "traits": ["추상 그래픽 무리", "파랑과 분홍", "빨강 한 점", "검은 선 질감", "넓은 여백"],
+    "good": [
+      "형태나 리듬이 뚜렷한 사진: 화분의 꽃, 건물 무리, 파도, 춤추는 사람",
+      "몇 개의 형태로 추상화할 수 있는 단순한 장면: 창과 발코니, 바다와 배, 새 한 마리",
+      "아트 포스터, 전시 비주얼, 음반 커버로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "구체적인 모습이나 디테일을 알아봐야 하는 사진: 인물, 상품, 랜드마크 디테일",
+      "사진 본래의 색을 지키고 싶은 경우(여기서는 색이 파랑과 분홍 중심으로 고정됩니다)",
+      "사실 묘사, 그라데이션, 3D, 귀여운 만화풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تكوين تجريدي حداثي بالأزرق والوردي",
+    "tagline": "يختزل الصورة في تكوين تجريدي حداثي صغير من كتل زرقاء ووردية وملامس خطية سوداء.",
+    "look": "لا يبقى من صورتك إلا ذكرتان إلى أربع ذكريات بصرية، تتحول إلى تكوين تجريدي واحد متماسك: أشكال هندسية عضوية وكتل لونية مسطحة وظلال، تشدها بضعة خطوط سوداء متكررة أو تظليل خطي أو أنماط نقطية أو بقع ملمس، فتتحاور الأشكال اللينة مع الخطوط المنضبطة، من دون تظليل واقعي أو حجم. الألوان مجموعة ثابتة محدودة: ورق أبيض دافئ أو كريمي أو عظمي، وأزرق ساطع ووردي فاتح زوجاً رئيسياً، والأحمر شرارة صغيرة جداً فقط، والأسود للحدود والملمس، بمساحات غير متساوية بوضوح. يبقى التكوين صغيراً، وقد يبتعد عن المركز أو يطفو أو يلامس حافة، مع فراغ واسع حوله وكلمات صغيرة قليلة.",
+    "traits": ["تكوين تجريدي", "أزرق ووردي", "شرارة حمراء", "ملمس خطي أسود", "فراغ واسع"],
+    "good": [
+      "صور ذات أشكال أو إيقاع قوي: أصيص زهور، مجموعة مبانٍ، أمواج، شخص يرقص",
+      "مشاهد بسيطة تُختزل في بضعة أشكال: نافذة وشرفة، بحر وقارب، طائر",
+      "صور تريدها ملصقاً فنياً أو مرئية معرض أو غلاف أسطوانة"
+    ],
+    "poor": [
+      "صور يجب أن تُعرف فيها ملامح أو تفاصيل بعينها: الصور الشخصية، المنتجات، تفاصيل المعالم",
+      "طلب الإبقاء على ألوان الصورة الأصلية، لأن الألوان هنا ثابتة على الأزرق والوردي",
+      "طلب الواقعية أو التدرجات أو المظهر ثلاثي الأبعاد أو الأسلوب الكرتوني اللطيف"
+    ]
+  }
+}

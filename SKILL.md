@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-208
-description: "Create Panel 208 raster artwork: Blue-pink Modernist Abstract Cluster. Use when the user invokes xxd-panel-208 or requests this specific visual language."
+description: "XXD Panel 208｜Blue-pink Modernist Abstract Cluster: keeps only two to four visual memories of a photo and rebuilds them as one compact modernist abstract cluster — organic geometric shapes, flat colour blocks and silhouettes held together by a few black repeated lines, hatching, dot patterns or local textures, soft forms set against rational lines, with no realistic shading or volume. The palette is fixed and strict: warm white, off-white or bone paper, bright blue and high-key pink as the main pair, red only as a tiny spark, black for outlines and line texture, in clearly unequal amounts. The cluster stays small, off-centre or cropped, in wide negative space with a few small, light words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-208 or asks for modernist abstract, blue-and-pink limited-palette or experimental graphic posters from a photo."
 ---
 
 # XXD Panel 208

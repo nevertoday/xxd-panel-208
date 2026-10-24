@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 208"
-  short_description: "Blue-pink Modernist Abstract Cluster"
-  default_prompt: "Use $xxd-panel-208 to transform my photograph following the complete canonical source brief."
+  short_description: "蓝粉现代主义抽象：把照片提炼成一小团抽象色块和黑色线纹，蓝粉为主，红色一点，大片留白"
+  default_prompt: "Use $xxd-panel-208 to turn my photo into Blue-pink Modernist Abstract Cluster artwork."
